@@ -22,14 +22,6 @@ hoi {}, my name is {}! if you have any questions about how to use me please give
 
 im a group manager bot maintained by  [this person](tg://user?id={}).
 
-My future updates will be put into This Channel - @MarieChechi & My Support Group @InFoTelGroup.
-
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English),
-you can create clone same like me..
-
-For more commands click /help...
-
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
 
 """
 
@@ -366,18 +358,7 @@ def get_settings(bot: Bot, update: Update):
         send_settings(chat.id, user.id, True)
 
 
-@run_async
-def donate(bot: Bot, update: Update):
-    user = update.effective_message.from_user
-    chat = update.effective_chat  # type: Optional[Chat]
 
-    if chat.type == "private":
-        update.effective_message.reply_text(DONATE_STRING, parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True)
-
-        if OWNER_ID != 254318997 and DONATION_LINK:
-            update.effective_message.reply_text("You can also donate to the person currently running me "
-                                                "[here]({})".format(DONATION_LINK),
-                                                parse_mode=ParseMode.MARKDOWN)
 
     else:
         try:

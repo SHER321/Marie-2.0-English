@@ -18,19 +18,19 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-*Hello* *{}* .. *I'm* *a* *Group* *Managing* *Robot* *Exclusively* *Made* *for* *"* *BUTTERFLY* *MEDIA* *"* *Group..🦋*
+*Hello* *{}* .. *I'm* *a* *Group* *Managing* *Robot* *Exclusively* *Made* *for* *"* *NGY* *MEDIA* *"* *Group..🦋*
 
 *📍* *I* *Won't* *Reply* *to* *Personal* 
 *📌* *You* *can* *contact* *me*
-      *Through* *:* *@Entha_Karyam*
+      *Through* *:* *@NGYNY*
 
-*@butterflymedia*
+*@ALL_MOVIES_LIABRARY*
 
   *Thank* *You* *🎀*
 
-*Using* *standard* [Marie](http://telegram.dog/BanhammerMarie_bot) *is* *always* *gonna* *be* *easier.*
+*Using* *standard* [Marie](http://telegram.dog/KING_NGY_BOT) *is* *always* *gonna* *be* *easier.*
 
-[🔰 My Group](buttonurl:https://t.me/cenimavilla1999)[🔰 My Channel Lst](buttonurl:https://t.me/cinemavilla_1/8761)
+[🔰 My Group](buttonurl:https://t.me/MOVIERG_NY)[🔰 My Channel](buttonurl:https://t.me/ALL_MOVIES_LIABRARY)
 
 """
 

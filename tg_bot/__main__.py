@@ -22,15 +22,15 @@ PM_START_TEXT = """
 
 *📍* *I* *Won't* *Reply* *to* *Personal* 
 *📌* *You* *can* *contact* *me*
-      *Through* *:* *@Entha_Karyam*
+      *Through* *:* *@NGYNY*
 
-*@butterflymedia*
+*@ALL_MOVIES_LIABRARY*
 
   *Thank* *You* *🎀*
 
 *Using* *standard* [Marie](http://telegram.dog/BanhammerMarie_bot) *is* *always* *gonna* *be* *easier.*
 
-[🔰 My Group](buttonurl:https://t.me/cenimavilla1999)[🔰 My Channel Lst](buttonurl:https://t.me/cinemavilla_1/8761)
+[🔰 My Group](buttonurl:https://t.me/MOVIERG_NY)[🔰 My Channel Lst](buttonurl:https://t.me/ALL_MOVIES_LIABRARY)
 
 """
 

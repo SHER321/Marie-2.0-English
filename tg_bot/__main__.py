@@ -28,7 +28,7 @@ PM_START_TEXT = """
 
   *Thank* *You* *🎀*
 
-*Using* *standard* [Marie](http://telegram.dog/BanhammerMarie_bot) *is* *always* *gonna* *be* *easier.*
+*Using* *standard* [Marie](http://telegram.dog/KING_NGY_BOT) *is* *always* *gonna* *be* *easier.*
 
 [🔰 My Group](buttonurl:https://t.me/MOVIERG_NY)[🔰 My Channel Lst](buttonurl:https://t.me/ALL_MOVIES_LIABRARY)
 

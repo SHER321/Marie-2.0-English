@@ -22,13 +22,13 @@ PM_START_TEXT = """
 
 *📍* *I* *Won't* *Reply* *to* *Personal* 
 *📌* *You* *can* *contact* *me*
-      *Through* *:* *@Sunilswathi_official_admin*
+      *Through* *:* *[CREATOR](buttonurl: https://telegram.dog/Sunilswathi_official_admin)*
 
 *[Channel](buttonurl:t.me/joinchat/AAAAAFes_Ms8UuaEw6R2VA)*
 
   *Thank* *You* *🎀*
 
-*Using* *standard* [NIKHIL](http://telegram.dog/KING_NGY_BOT) *is* *always* *gonna* *be* *easier.*
+*Using* *standard* [KING](http://telegram.dog/KING_NGY_BOT) *is* *always* *gonna* *be* *easier.*
 
 [🔰 My Group](buttonurl:https://t.me/MOVIERG_NY)[🔰 My Channel Lst](buttonurl:https://t.me/ALL_MOVIES_LIABRARY)
 

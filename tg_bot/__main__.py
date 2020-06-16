@@ -24,11 +24,11 @@ PM_START_TEXT = """
 *📌* *You* *can* *contact* *me*
       *Through* *:* *@Sunilswathi_official_admin*
 
-*[Channel](https://t.me/joinchat/AAAAAFes_Ms8UuaEw6R2VA)*
+*[Channel](buttonurl:t.me/joinchat/AAAAAFes_Ms8UuaEw6R2VA)*
 
   *Thank* *You* *🎀*
 
-*Using* *standard* [Marie](http://telegram.dog/KING_NGY_BOT) *is* *always* *gonna* *be* *easier.*
+*Using* *standard* [NIKHIL](http://telegram.dog/KING_NGY_BOT) *is* *always* *gonna* *be* *easier.*
 
 [🔰 My Group](buttonurl:https://t.me/MOVIERG_NY)[🔰 My Channel Lst](buttonurl:https://t.me/ALL_MOVIES_LIABRARY)
 

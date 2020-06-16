@@ -22,9 +22,9 @@ PM_START_TEXT = """
 
 *📍* *I* *Won't* *Reply* *to* *Personal* 
 *📌* *You* *can* *contact* *me*
-      *Through* *:* *[CREATOR](https://telegram.dog/Sunilswathi_official_admin)*
+      *Creator* *:* *@Sunilswathi_official_admin*
 
-*[Channel](buttonurl:t.me/joinchat/AAAAAFes_Ms8UuaEw6R2VA)*
+*[Channel] t.me/joinchat/AAAAAFes_Ms8UuaEw6R2VA*
 
   *Thank* *You* *🎀*
 

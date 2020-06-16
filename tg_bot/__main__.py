@@ -22,9 +22,9 @@ PM_START_TEXT = """
 
 *📍* *I* *Won't* *Reply* *to* *Personal* 
 *📌* *You* *can* *contact* *me*
-      *Through* *:* *@NGYNY*
+      *Through* *:* *@Sunilswathi_official_admin*
 
-*@ALL_MOVIES_LIABRARY*
+*[Channel](https://t.me/joinchat/AAAAAFes_Ms8UuaEw6R2VA)*
 
   *Thank* *You* *🎀*
 

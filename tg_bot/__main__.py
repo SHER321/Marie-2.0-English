@@ -18,17 +18,17 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-*Hello* *{}* .. *I'm* *a* *Group* *Managing* *Robot* *Exclusively* *Made* *for* *"* *BUTTERFLY* *MEDIA* *"* *Group..🦋*
+*Hello* *{}* .. *I'm* *a* *Group* *Managing* *Robot* *Exclusively* *Made* *for* *"* *@MOVIERG_* *MEDIA* *"* *Group..🦋*
 
 *📍* *I* *Won't* *Reply* *to* *Personal* 
 *📌* *You* *can* *contact* *me*
-      *Creator* *:* *@Sunilswathi_official_admin*
+      *Creator* *:* *@NGYNY*
 
-*[Channel] t.me/joinchat/AAAAAFes_Ms8UuaEw6R2VA*
+*[Channel](t.me/NGY_BOTS)*
 
   *Thank* *You* *🎀*
 
-*Using* *standard* [KING](http://telegram.dog/KING_NGY_BOT) *is* *always* *gonna* *be* *easier.*
+*Using* *standard* [KING](http://telegram.dog/SIMBHA_NGY_BOT) *is* *always* *gonna* *be* *easier.*
 
 [🔰 My Group](buttonurl:https://t.me/MOVIERG_NY)[🔰 My Channel Lst](buttonurl:https://t.me/ALL_MOVIES_LIABRARY)
 
@@ -51,10 +51,10 @@ And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-It took lots of work for [my creator](t.me/SonOfLars) to get me to where I am now, and every donation helps \
+It took lots of work for [my creator](t.me/NGYNY) to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
 (see his bio!). He's just a poor student, so every little helps!
-There are two ways of paying him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
+There are two ways of paying him; [Channel](t.me/NGY_BOTS)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
